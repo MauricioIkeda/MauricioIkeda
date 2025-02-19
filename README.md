@@ -9,4 +9,6 @@
 ```python
 def HelloWorld(text : str):
   print(text)
+
+HelloWorld("C++ é perfeito")
 ```
