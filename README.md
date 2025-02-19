@@ -1,6 +1,6 @@
 # Olá, meu nome é Mauricio Ikeda 👋
 
-**🔬 2º Ano `Ciências da Computação` 🖥️**
+**🔬 2º Ano `Ciências da Computação` na Universidade de Marília 🖥️**
 
 **📖 Linguagem que possuo mais experiencia é `Python` 🐍**
 
