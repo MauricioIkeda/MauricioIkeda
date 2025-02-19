@@ -8,5 +8,5 @@
 
 ```python
 def HelloWorld(text : str):
-  print(text)
+  print("C é uma merda")
 ```
