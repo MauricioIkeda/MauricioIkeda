@@ -14,3 +14,17 @@ def HelloWorld(text : str):
 
 HelloWorld("C++ é perfeito")
 ```
+
+```c++
+#include <iostream>
+using namespace std;
+
+void HelloWorld(string text) {
+    cout << text << endl;
+}
+
+int main() {
+    HelloWorld("Olá, Mundo!");
+    return 0;
+}
+```
