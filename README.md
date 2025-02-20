@@ -6,7 +6,16 @@
 
 **🎮 Amo brincar de desenvolver jogos na `Unreal Engine` ⚙️**
 
-```python
-def HelloWorld(text : str):
-  print(text)
+```c++
+#include <iostream>
+using namespace std;
+
+void HelloWorld(string text) {
+    cout << text << endl;
+}
+
+int main() {
+    HelloWorld("Olá, Mundo!");
+    return 0;
+}
 ```
