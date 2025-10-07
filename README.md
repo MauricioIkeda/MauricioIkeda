@@ -4,7 +4,7 @@
 
 **📖 Linguagem que possuo experiencia é `Python`, `C#`, `Java`, `HTML` e `CSS`**
 
-**🎮 Amo brincar de desenvolver jogos na `Unreal Engine` ⚙️**
+**🎮 Amo brincar de desenvolver jogos na `Unity` e `Unreal Engine` ⚙️**
 
 ```python
 def HelloWorld(text : str):
