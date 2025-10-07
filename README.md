@@ -2,7 +2,7 @@
 
 **🔬 2º Ano `Ciências da Computação` na Universidade de Marília 🖥️**
 
-**📖 Linguagem que possuo mais experiencia é `Python`**
+**📖 Linguagem que possuo experiencia é `Python`, `C#`, `Java`, `HTML` e `CSS`**
 
 **🎮 Amo brincar de desenvolver jogos na `Unreal Engine` ⚙️**
 
