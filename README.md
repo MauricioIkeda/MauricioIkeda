@@ -1,15 +1,16 @@
-<!-- 🌟 Banner topo (substitua o link abaixo pelo seu banner real se quiser) -->
+<!-- 🌟 Banner topo -->
 <p align="center">
-  <img src="https://github.com/MauricioIkeda/MauricioIkeda/blob/main/github-header-banner.png" alt="Bannerzinho" width="100%" />
+  <img src="https://github.com/MauricioIkeda/MauricioIkeda/blob/main/github-header-banner.png" alt="Banner do Mauricio Ikeda" width="100%" />
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-🎓 Estudante de **Ciência da Computação** na Universidade de Marília Quarto Semestre.  
-💡 Apaixonado por **Programação**, unindo **IA, desenvolvimento web e jogos**.  
-🎮 Meus hobbies é **Jogar** e estudar **Programação**.  
-🧠 Desenvolvo com **Python, React TypeScript, C#, Java, HTML e CSS**.
+🎓 Estudante de **Ciência da Computação** na **Universidade de Marília (4º semestre)**.  
+💡 Apaixonado por **programação**, unindo **inteligência artificial**, **desenvolvimento web** e **criação de jogos**.  
+🎮 Meus hobbies são **jogar**, **aprender novas tecnologias** e **criar projetos criativos**.  
+🧠 Desenvolvo com **Python, React + TypeScript, C#, Java, HTML e CSS**.  
+🚀 Atualmente focado em **Machine Learning**, **Desenvolvimento de Games** e **aplicações inteligentes**.
 
 ---
 
@@ -20,8 +21,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🧠 Frameworks e Engines
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,16 +45,16 @@
 |-------------|--------------|----------------|
 | 🧠 [IA LifeFit](https://github.com/MauricioIkeda/LifeFit) | Recomendador inteligente de exercícios com rede neural em PyTorch e PostgreSQL. | Python, PyTorch, SQLAlchemy |
 | 💼 [CompanyInsight](https://github.com/MauricioIkeda/CompanyInsight) | Sistema de análise corporativa com relatórios automatizados e visualizações. | Python, Pandas, Matplotlib, Tkinter |
-| 🏪 [Unimar E-commerce](https://github.com/MauricioIkeda/Unimar-Ecommerce) | Loja virtual acadêmica com layout responsivo e design intuitivo. | Django, SQLite, HTML, CSS |
-| 🏦 [WikiBank](https://github.com/MauricioIkeda/WikiBank) | Primeiro projeto da faculdade, faz webscraping e usa api para ver cotação dos Bancos | Python, MySQL, Tkinter |
-| 🎮 [PixelmonSTS](https://github.com/MauricioIkeda/PixelmonSTS) | Plugin para Minecraft Pixelmon para vendas de pokemon para o servidor | Java |
-| 🎮 [PixelmonTournament](https://github.com/MauricioIkeda/PixelmonTournament) | Plugin para Minecraft Pixelmon para torneios entre treinadores para o servidor | Java |
+| 🏪 [Unimar E-commerce](https://github.com/MauricioIkeda/Unimar-Ecommerce) | Loja virtual acadêmica com layout responsivo e design intuitivo. | Django, HTML, CSS |
+| 🏦 [WikiBank](https://github.com/MauricioIkeda/WikiBank) | Projeto acadêmico com web scraping e consulta de APIs bancárias. | Python, MySQL, Tkinter |
+| 🎮 [PixelmonSTS](https://github.com/MauricioIkeda/PixelmonSTS) | Plugin para Minecraft Pixelmon que permite vendas de Pokémon no servidor. | Java |
+| 🧩 [PixelmonTournament](https://github.com/MauricioIkeda/PixelmonTournament) | Sistema de torneios entre treinadores para servidores Pixelmon. | Java |
 
 ---
 
 ### 🌱 Atualmente aprendendo
-- 🕹️ **Desenvolvimento de Games**
-- 🧠 **Machine Learning/Deep Learning**
+- 🕹️ **Desenvolvimento de Games (Unity, Unreal e Godot)**
+- 🧠 **Machine Learning / Deep Learning**
 
 ---
 
@@ -67,10 +68,17 @@
 
 ### 🌐 Contato
 📧 **mauricioikeda17@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/mauricio-ikeda-560b23290/) 
-🎮 [Itch.io](https://mauricio-ikeda.itch.io/)
+💼 [LinkedIn](https://www.linkedin.com/in/mauricio-ikeda-560b23290/)  
+🎮 [Itch.io](https://mauricio-ikeda.itch.io/)  
 🐙 [GitHub](https://github.com/MauricioIkeda)
 
 ---
 
 ⭐ _“Transformando código em experiências inteligentes e interativas.”_
+
+---
+
+<!-- 🐍 Animação da cobrinha (deixe essa parte no final do README para efeito visual) -->
+<p align="center">
+  <img src="https://github.com/MauricioIkeda/MauricioIkeda/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
