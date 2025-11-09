@@ -77,8 +77,3 @@
 ⭐ _“Transformando código em experiências inteligentes e interativas.”_
 
 ---
-
-<!-- 🐍 Animação da cobrinha (deixe essa parte no final do README para efeito visual) -->
-<p align="center">
-  <img src="https://github.com/MauricioIkeda/MauricioIkeda/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
